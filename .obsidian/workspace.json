@@ -11,12 +11,14 @@
             "id": "b7c051abcdeb9471",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629191452.png"
+                "file": "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Offensive Security Intro.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260629191452"
+              "icon": "lucide-file",
+              "title": "Offensive Security Intro"
             }
           }
         ]
@@ -183,11 +185,11 @@
   },
   "active": "b7c051abcdeb9471",
   "lastOpenFiles": [
+    "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629191452.png",
     "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629191442.png",
     "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629191438.png",
     "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629191434.png",
     "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629191424.png",
-    "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629191452.png",
     "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Offensive Security Intro.md",
     "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629190716.png",
     "Certs/Tryhackme/SEC1 (Cyber Security 101)/1) Start Your Cyber Security Journey/Attachments/Pasted image 20260629190707.png",
