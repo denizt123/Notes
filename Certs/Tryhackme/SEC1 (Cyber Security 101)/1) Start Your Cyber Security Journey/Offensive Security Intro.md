@@ -1,12 +1,10 @@
 ### What is Offensive Security
-
 - The core idea of offensive security is breaking into computer systems, exploiting bugs and finding loopholes in systems to gain access to sensitive information or areas
 - The purpose of this is to understand hackers tactics to enhance defensive security on systems.
   
 ---
 
 ### First practical (Fake Bank THM)
-
 1) The first practical we encounter is pretty basic - *No SSH into machine available - only web attack box*
    
 2) We start on webpage where we are asked for the first task - *"What is our bank account number"* - It is displayed at the top right as 8881
