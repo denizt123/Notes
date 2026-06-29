@@ -2,8 +2,9 @@
 
 - The core idea of offensive security is breaking into computer systems, exploiting bugs and finding loopholes in systems to gain access to sensitive information or areas
 - The purpose of this is to understand hackers tactics to enhance defensive security on systems.
-
+  
 ---
+
 ### First practical (Fake Bank THM)
 
 1) The first practical we encounter is pretty basic - *No SSH into machine available - only web attack box*
