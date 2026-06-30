@@ -8,11 +8,11 @@
 - They both have pros and cons
 - Linux is lightweight and is used on many devices and systems such as Websites, Control panels, Tills, and point of sales machines and critical infrastructure's
 - It is also open-source meaning that all its code is publicly accessible
-
+ 
 ### Flavours of Linux
 - Linux is an umbrella term for multiple OS's that are based on UNIX
 - Since Linux is open-source variants come in all shapes and sizes so you can choose which flavour suits your purposes best
-- Ubuntu & Debian are the most common distributions of Linux
+- Ubuntu & Debian are the most common distributions of Linux 
 
 ### Task
 - Q: What year was the first release of a Linux operating system
@@ -89,6 +89,7 @@
 	- `>>`: does the same as `>` but instead appends the output rather than replace what is in the destination
 	  
 	  ![](Attachments/Pasted%20image%2020260630013958.png)
+	- `|`: Strangely not listed on TryHackMe is used to redirect the output of one command into another
 
 ### Task
 - Fairly simple - ran in the attack box.

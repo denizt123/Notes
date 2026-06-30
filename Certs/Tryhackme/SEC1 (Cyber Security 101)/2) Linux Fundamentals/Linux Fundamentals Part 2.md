@@ -5,8 +5,8 @@
   ![](Attachments/Pasted%20image%2020260630014920.png)
 - We use it to communicate with the command line of a remote machines.
 - To login we need to provide 2 things: The IP and the correct credentials to a valid account on the remote machine.
-- in this case we use `ssh tryhackme@10.80.162.22`, this is the machine we want to get into in the format `ssh username@IP`, the password we need to provide in this case is `"tryhackme"`
-  
+- in this case we use `ssh tryhackme@10.80.162.22`, this is the machine we want to get into in the format `ssh username@IP`, the password we need to provide in this case is `"tryhackme"` 
+
   ![](Attachments/Pasted%20image%2020260630015548.png)
 
 ---
