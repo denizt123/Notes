@@ -37,11 +37,6 @@
 ### file
 - `file`: determines file type so if "coolfilename" was a .txt file `file coolfilename` would return ASCII text or a variation of that based on the contents.
 
-### Task
-- Very simple
-  
-  ![](Attachments/Pasted%20image%2020260630032324.png)
-
 ---
 
 ### Permissions 101
